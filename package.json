@@ -5,7 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "npx only-allow pnpm"
+    "preinstall": "npx only-allow pnpm",
+    "twitch-clone": "pnpm -F twitch-clone",
+    "notion-clone": "pnpm -F notion-clone",
+    "supabase-with-next": "pnpm -F supabase-with-next",
+    "x-com-clone": "pnpm -F x-com-clone",
+    "dev": "pnpm -r dev"
   },
   "keywords": [],
   "author": "",

@@ -17,10 +17,8 @@
     "clsx": "^2.0.0",
     "convex": "^1.6.2",
     "lucide-react": "^0.292.0",
-    "next": "latest",
     "next-themes": "^0.2.1",
     "npm": "^10.2.4",
-    "react": "^18",
     "react-dom": "^18",
     "sonner": "^1.2.3",
     "tailwind-merge": "^2.0.0",
@@ -29,7 +27,6 @@
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
